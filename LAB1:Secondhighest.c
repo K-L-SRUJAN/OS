@@ -25,7 +25,7 @@ void sortele(){
         }
          
     }
-    printf("Second highest element is : %d",arr[1]); 
+    printf("Second highest element is : %d",arr[max-2]); 
 }   
 int main() {
     // Write C code here
